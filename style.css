@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+body{
+    background-color:hsl(30, 54%, 90%) ;
+    justify-content:center;
+    display: flex;
+    align-items: center;
+}
+p{
+    font-size: 16px;
+     font-family: "Outfit", sans-serif;
+}
+.imagem{
+    width: 600px;
+    border-radius: 10px;
+    
+}
+.li{
+
+    margin-left: 18px;
+}
+h1{
+    font-size: 40px;
+  font-weight: 400;
+  font-style: normal;
+    font-family: "Young Serif", serif;
+    font-size: 28px;
+}
+h2{
+    color: hsl(332, 51%, 32%);
+    font-family: "Outfit", sans-serif;
+    font-weight: 500;
+   
+     
+
+}
+.ul1{
+     background-color: hsla(332, 36%, 54%, 0.295); ;
+     padding: 20px;
+     border-radius: 10px;
+     height: 150px;
+     
+     
+}
+li{
+    margin-top: 10px;
+    font-size: 17px;
+    font-weight: 400;
+    
+    
+}
+h3{
+    font-size: 16px;
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+     font-weight: 400;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+ 
+}
+.tudo{
+    background-color:white;
+    width: 600px;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+.li-number::marker{
+     color: hsl(14, 56%, 34%);
+
+}
+.li-bolinha::marker{
+    color: hsl(14, 56%, 34%);
+}
+.th-direita{
+    color: hsl(14, 56%, 34%);
+    border-bottom: 0.2px; 
+}
+.th-esquerda{
+     color:  hsl(34, 6%, 23%);
+}
+th{
+    padding: 10px 100px;
+}
+tr{
+    border-bottom: 0.2px hsl(30, 10%, 34%) solid;
+}
+table{
+    border-collapse: collapse;
+   margin-left: 42px;
+}
+    
+
